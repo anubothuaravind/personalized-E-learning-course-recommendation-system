@@ -1,0 +1,101 @@
+user_id,course_id,description,category
+user_86,course_17,"This course covers ux, machine learning and helps improve skills in design.",Design
+user_47,course_5,"This course covers java, cloud, python, analytics and helps improve skills in marketing.",Marketing
+user_76,course_38,"This course covers ux, java and helps improve skills in programming.",Programming
+user_6,course_43,"This course covers machine learning, analytics, cloud and helps improve skills in business.",Business
+user_20,course_29,"This course covers ux, business, java and helps improve skills in data science.",Data Science
+user_89,course_24,"This course covers machine learning, analytics, design and helps improve skills in data science.",Data Science
+user_6,course_47,"This course covers ux, python, java and helps improve skills in marketing.",Marketing
+user_32,course_6,"This course covers analytics, ux, design and helps improve skills in design.",Design
+user_44,course_18,"This course covers strategy, machine learning and helps improve skills in business.",Business
+user_70,course_24,"This course covers business, data, cloud, design and helps improve skills in marketing.",Marketing
+user_78,course_31,"This course covers python, ux and helps improve skills in marketing.",Marketing
+user_91,course_28,"This course covers machine learning, cloud and helps improve skills in marketing.",Marketing
+user_87,course_44,"This course covers java, business, python and helps improve skills in marketing.",Marketing
+user_73,course_16,"This course covers python, machine learning, design, strategy and helps improve skills in marketing.",Marketing
+user_6,course_3,"This course covers machine learning, cloud, analytics and helps improve skills in design.",Design
+user_1,course_32,"This course covers data, design and helps improve skills in programming.",Programming
+user_91,course_5,"This course covers business, cloud, data, strategy and helps improve skills in marketing.",Marketing
+user_90,course_49,"This course covers strategy, python, data and helps improve skills in design.",Design
+user_83,course_10,"This course covers business, java, cloud, analytics and helps improve skills in programming.",Programming
+user_75,course_10,"This course covers business, ux, cloud and helps improve skills in business.",Business
+user_97,course_16,"This course covers analytics, data and helps improve skills in design.",Design
+user_72,course_49,"This course covers ux, cloud, java, design and helps improve skills in business.",Business
+user_21,course_12,"This course covers ux, python and helps improve skills in marketing.",Marketing
+user_53,course_24,"This course covers cloud, business, ux and helps improve skills in business.",Business
+user_14,course_45,"This course covers cloud, machine learning, python, data and helps improve skills in design.",Design
+user_28,course_4,"This course covers java, python, strategy, cloud and helps improve skills in marketing.",Marketing
+user_19,course_39,"This course covers data, machine learning and helps improve skills in programming.",Programming
+user_17,course_50,"This course covers cloud, data, java, analytics and helps improve skills in marketing.",Marketing
+user_68,course_30,"This course covers data, design, cloud, python and helps improve skills in data science.",Data Science
+user_14,course_22,"This course covers data, python, analytics, strategy and helps improve skills in data science.",Data Science
+user_29,course_9,"This course covers machine learning, python, cloud and helps improve skills in marketing.",Marketing
+user_23,course_6,"This course covers cloud, analytics, ux and helps improve skills in marketing.",Marketing
+user_61,course_27,"This course covers machine learning, design and helps improve skills in business.",Business
+user_15,course_24,"This course covers python, analytics and helps improve skills in design.",Design
+user_7,course_10,"This course covers python, machine learning, business, analytics and helps improve skills in business.",Business
+user_62,course_18,"This course covers cloud, business, machine learning, design and helps improve skills in marketing.",Marketing
+user_94,course_30,"This course covers design, machine learning and helps improve skills in marketing.",Marketing
+user_50,course_50,"This course covers python, design, ux, cloud and helps improve skills in marketing.",Marketing
+user_75,course_37,"This course covers business, analytics, strategy and helps improve skills in marketing.",Marketing
+user_53,course_21,"This course covers business, java, data, machine learning and helps improve skills in programming.",Programming
+user_44,course_43,"This course covers data, ux, cloud, business and helps improve skills in programming.",Programming
+user_60,course_29,"This course covers analytics, java, ux, design and helps improve skills in programming.",Programming
+user_34,course_50,"This course covers ux, analytics, business, strategy and helps improve skills in design.",Design
+user_6,course_23,"This course covers analytics, machine learning, strategy, design and helps improve skills in business.",Business
+user_95,course_11,"This course covers java, strategy, machine learning and helps improve skills in data science.",Data Science
+user_86,course_48,"This course covers data, machine learning, design and helps improve skills in business.",Business
+user_76,course_4,"This course covers machine learning, business, ux, analytics and helps improve skills in design.",Design
+user_68,course_33,"This course covers strategy, data, analytics and helps improve skills in business.",Business
+user_46,course_17,"This course covers cloud, business, python and helps improve skills in design.",Design
+user_98,course_49,"This course covers ux, cloud and helps improve skills in data science.",Data Science
+user_30,course_31,"This course covers java, strategy, analytics, cloud and helps improve skills in data science.",Data Science
+user_80,course_49,"This course covers ux, python, analytics, data and helps improve skills in programming.",Programming
+user_57,course_29,"This course covers cloud, data, strategy, java and helps improve skills in marketing.",Marketing
+user_1,course_20,"This course covers design, strategy and helps improve skills in design.",Design
+user_42,course_46,"This course covers java, business, machine learning and helps improve skills in business.",Business
+user_78,course_46,"This course covers ux, strategy and helps improve skills in programming.",Programming
+user_36,course_49,"This course covers machine learning, ux, python and helps improve skills in programming.",Programming
+user_63,course_15,"This course covers ux, python, design and helps improve skills in design.",Design
+user_33,course_12,"This course covers python, data, cloud, java and helps improve skills in data science.",Data Science
+user_73,course_6,"This course covers ux, machine learning, data, java and helps improve skills in data science.",Data Science
+user_97,course_37,"This course covers cloud, strategy, java and helps improve skills in marketing.",Marketing
+user_19,course_28,"This course covers business, strategy and helps improve skills in business.",Business
+user_12,course_25,"This course covers strategy, business, python and helps improve skills in data science.",Data Science
+user_36,course_3,"This course covers ux, cloud and helps improve skills in design.",Design
+user_57,course_3,"This course covers data, machine learning, business and helps improve skills in marketing.",Marketing
+user_10,course_46,"This course covers machine learning, python and helps improve skills in data science.",Data Science
+user_14,course_41,"This course covers java, analytics, data, ux and helps improve skills in design.",Design
+user_56,course_6,"This course covers strategy, python, design and helps improve skills in business.",Business
+user_99,course_9,"This course covers ux, java and helps improve skills in design.",Design
+user_31,course_24,"This course covers strategy, java, cloud, python and helps improve skills in data science.",Data Science
+user_79,course_35,"This course covers design, business, strategy and helps improve skills in programming.",Programming
+user_72,course_49,"This course covers cloud, analytics, design, java and helps improve skills in programming.",Programming
+user_14,course_10,"This course covers data, cloud and helps improve skills in design.",Design
+user_31,course_38,"This course covers data, business and helps improve skills in design.",Design
+user_23,course_36,"This course covers python, design and helps improve skills in data science.",Data Science
+user_31,course_50,"This course covers design, python, data and helps improve skills in design.",Design
+user_23,course_45,"This course covers python, java, analytics and helps improve skills in marketing.",Marketing
+user_97,course_29,"This course covers java, design, ux, machine learning and helps improve skills in marketing.",Marketing
+user_43,course_18,"This course covers strategy, java, design and helps improve skills in data science.",Data Science
+user_23,course_46,"This course covers strategy, cloud and helps improve skills in programming.",Programming
+user_19,course_16,"This course covers cloud, data, java and helps improve skills in marketing.",Marketing
+user_25,course_45,"This course covers design, analytics, cloud, python and helps improve skills in business.",Business
+user_77,course_30,"This course covers java, python, machine learning and helps improve skills in marketing.",Marketing
+user_62,course_8,"This course covers ux, machine learning, python and helps improve skills in data science.",Data Science
+user_4,course_3,"This course covers cloud, machine learning, ux and helps improve skills in business.",Business
+user_3,course_6,"This course covers design, analytics and helps improve skills in design.",Design
+user_16,course_48,"This course covers data, analytics, java, strategy and helps improve skills in marketing.",Marketing
+user_80,course_21,"This course covers business, java, cloud, strategy and helps improve skills in data science.",Data Science
+user_28,course_42,"This course covers ux, data, business and helps improve skills in programming.",Programming
+user_49,course_18,"This course covers strategy, data, cloud, java and helps improve skills in programming.",Programming
+user_7,course_9,"This course covers machine learning, cloud, ux, analytics and helps improve skills in programming.",Programming
+user_33,course_50,"This course covers cloud, machine learning and helps improve skills in design.",Design
+user_23,course_38,"This course covers machine learning, design and helps improve skills in design.",Design
+user_41,course_37,"This course covers design, cloud, business, python and helps improve skills in programming.",Programming
+user_36,course_30,"This course covers ux, java and helps improve skills in business.",Business
+user_18,course_16,"This course covers business, design, java, data and helps improve skills in marketing.",Marketing
+user_96,course_44,"This course covers design, strategy, machine learning, java and helps improve skills in design.",Design
+user_53,course_6,"This course covers ux, machine learning and helps improve skills in business.",Business
+user_48,course_28,"This course covers ux, design, strategy, machine learning and helps improve skills in programming.",Programming
+user_87,course_35,"This course covers machine learning, business and helps improve skills in design.",Design
